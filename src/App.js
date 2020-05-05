@@ -18,6 +18,17 @@ function App() {
         >
           Learn React
         </a>
+        <ul>
+          <li>
+            học code
+          </li>
+          <li>
+            học code
+          </li>
+          <li>
+            học code
+          </li>
+        </ul>
       </header>
     </div>
   );
